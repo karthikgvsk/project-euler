@@ -1,4 +1,4 @@
-
+#finding the largest palindrome number which is a product of two 3-digit numbers
 def palindrome(n):
 	s1 = str(n)
 	#if s1 is equal to its reverse, return True
@@ -24,3 +24,4 @@ while m >= end:
 	m = m - 1
 
 print max
+
