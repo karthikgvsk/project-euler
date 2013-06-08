@@ -1,4 +1,5 @@
 # Problem 29 :  Distinct powers
+# brute force
 l = []
 a = 2
 while a <= 100:
